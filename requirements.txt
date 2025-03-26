@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-generativeai
+requests
+pandas
+asyncio
+aiocache
